@@ -1,9 +1,11 @@
 [package]
 name = "conway"
-version = "0.1.0"
+version = "0.0.1"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+authors = ["Benny Christian Henning <benny.henning@web.de>"]
+repository = "https://gitlab.com/bchenning/conway"
+readme = "README.md"
+license-file = "LICENSE"
 
 [dependencies]
 termion = "1.5.6"
